@@ -63,17 +63,14 @@ accuracy = metrics.accuracy_score(y_test,y_pred)
 accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
-
 ## Output:
 ### Head
 ![Screenshot 2024-09-20 102257](https://github.com/user-attachments/assets/9714be12-3a22-4ce9-b6b0-ad370809b989)
 
 ### Info
-
 ![Screenshot 2024-09-20 101841](https://github.com/user-attachments/assets/31cdafb0-45bf-4885-aff0-a90e8ee16769)
 
 ### salary head
-
 ![Screenshot 2024-09-20 102331](https://github.com/user-attachments/assets/08abc5ea-b4a1-4e2b-81c9-2f82236bbc7b)
 
 ### x.head()
@@ -85,15 +82,6 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Data Prediction
 ![Screenshot 2024-09-20 103137](https://github.com/user-attachments/assets/12b037fa-7b13-451e-9c05-d1c8166c16c3)
-
-
-
-
-
-
-
-
-
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
